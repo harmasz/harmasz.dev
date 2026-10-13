@@ -6,7 +6,7 @@ export const siteConfig = {
 	author: "Piotr Harmasz",
 	role: "Product Lead / Builder",
 	location: "Wrocław, Poland",
-	email: "0xf000h@gmail.com",
+	email: "piotr@harmasz.dev",
 	keywords: [
 		"Piotr Harmasz",
 		"harmasz",
