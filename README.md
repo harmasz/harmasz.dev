@@ -20,7 +20,7 @@ This repository contains the current production codebase for [harmasz.dev](https
 
 ## Local Development
 
-Use Node.js 24 (declared in `.node-version`) and pnpm 11.10.0 (declared in `package.json`). CI reads the same Node version file, and Vercel uses the `24.x` package engine.
+Use the latest Node.js 24 release (declared in `.node-version`; currently 24.22.2) and pnpm 11.28.9 (declared in `package.json`). CI reads the same Node version file, and Vercel uses the `24.x` package engine.
 
 ```bash
 pnpm install
