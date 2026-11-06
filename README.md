@@ -9,7 +9,7 @@
   <img alt="React" src="https://img.shields.io/badge/React-19-111111?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-5-111111?style=for-the-badge&logo=typescript&logoColor=3178C6">
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-4-111111?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8">
-  <img alt="pnpm" src="https://img.shields.io/badge/pnpm-11-111111?style=for-the-badge&logo=pnpm&logoColor=F69220">
+  <img alt="pnpm" src="https://img.shields.io/badge/pnpm-12-111111?style=for-the-badge&logo=pnpm&logoColor=F69220">
 </p>
 
 ![Homepage screenshot](./screenshot.png)
@@ -20,7 +20,7 @@ This repository contains the current production codebase for [harmasz.dev](https
 
 ## Local Development
 
-Use the latest Node.js 24 release (declared in `.node-version`; currently 24.22.2) and pnpm 11.28.9 (declared in `package.json`). CI reads the same Node version file, and Vercel uses the `24.x` package engine.
+Use the latest Node.js 24 release (declared in `.node-version`; currently 24.22.2) and pnpm 12.18.0 (declared in `package.json`). CI reads the same Node version file, and Vercel uses the `24.x` package engine.
 
 ```bash
 pnpm install
